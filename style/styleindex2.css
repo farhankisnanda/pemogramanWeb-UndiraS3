@@ -1,0 +1,21 @@
+.gambarutama{
+    width: 400px;
+    height: 250px;
+    float: left;
+    margin: 10px;
+    margin-top: 45px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+.deskripsi p {
+    padding: 30px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+}
+
+.palingbawah {
+    margin-top: 355px;
+}
