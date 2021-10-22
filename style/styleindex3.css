@@ -1,0 +1,26 @@
+#headerform {
+  width: 100%;
+}
+
+#hal3 {
+  height: max-content;
+  padding-bottom: 25px;
+}
+
+#formPeserta {
+  background-color: hotpink;
+  margin: 20px;
+}
+
+#tablePeserta {
+  margin: 20px;
+  margin-left: 60px;
+}
+
+.kolomFormulir {
+  padding: 10px 10px 25px 0px;
+}
+
+.deskripsi {
+  margin: 0px 40px 0px 40px;
+}
